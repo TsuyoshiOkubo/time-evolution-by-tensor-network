@@ -2,14 +2,14 @@
 Hands-on of the time evolution of a quantum many-body system by tensor network methods
 
 ## Slide for basics of tensor network simulation
-Slide of main lecture: "Quantum simulation by tensor network methods"
+Slide of main lecture: "[Quantum simulation by tensor network methods](slide/SQAI20250807.pdf)"
 
 ## Notebooks
 Here we share notebooks for the hands-on tutorial on time evolution methods by tensor networks.
 
-- Time evolution of one-dimensional systems by TEBD of MPS
-- Time evolution of two-dimensional systems by TEBD of MPS and PEPS
-- Time evolution of infinite systems by iMPS and iPEPS
+- Time evolution of one-dimensional systems by TEBD of MPS: [Ex_TE.ipynb](notebook/Ex_TE.ipynb)
+- Time evolution of two-dimensional systems by TEBD of MPS and PEPS: [Ex_TE_2d.ipynb](notebook/Ex_TE_2d.ipynb)
+- Time evolution of infinite systems by iMPS and iPEPS: [Ex_TE_infinite.ipynb](notebook/Ex_TE_infinite.ipynb)
 
 
 ## Information of TeNeS
