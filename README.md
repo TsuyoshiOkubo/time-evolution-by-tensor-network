@@ -25,12 +25,6 @@ We can simulate
 - Real and Imaginary time evolutions
 - Finite temperature properties
 
-Instead of installing TeNeS, we can use it, for example, from [MateriApps Live!](https://github.com/cmsi/MateriAppsLive). If you try it, please prepare your (virtual) Linux enviroment by MateriApps Live as
-
-* [Virtual box](https://github.com/cmsi/MateriAppsLive/wiki/GettingStartedOVA-en)
-* [Docker](https://github.com/cmsi/MateriAppsLive/wiki/GettingStartedDocker-en)
-
-
 Instead of installing TeNeS, we can use it, for example, from [MateriApps Live!](https://github.com/cmsi/MateriAppsLive). If you try it, please prepare your (virtual) Linux environment by MateriApps Live as
 
 * [Virtual box](https://github.com/cmsi/MateriAppsLive/wiki/GettingStartedOVA-en)
